@@ -6,6 +6,6 @@ The architecture of SpatialCluster is modular, comprising five key components:
   - Clustering Evaluation
   - Dataset Integration
 
-Scientific publication _SpatialCluster: A Python library for urban clustering_  available here: https://www.sciencedirect.com/science/article/pii/S2352711024001109
+Scientific publication _SpatialCluster: A Python library for urban clustering_, available here: https://www.sciencedirect.com/science/article/pii/S2352711024001109
 
 Documentation: https://spatial-cluster-english-doc.readthedocs.io/en/latest/usage.html
